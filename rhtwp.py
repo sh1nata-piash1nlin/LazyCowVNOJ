@@ -2,7 +2,7 @@
 """
     @author: Nguyen "sh1nata" Duc Tri <22110082@student.hcmute.edu.vn>
     link to vid on Youtube:
-    #My note: the given video above doesn't contain the GUI (or animation) part, I have just added it and forgot recording a video. Iam sorry if it doesn't give enough eviden
+    #My note: the given video above doesn't contain the GUI (or animation) part, I have just added it and forgot recording the video. Iam sorry if it doesn't give enough eviden
 
 """
 from collections import deque
